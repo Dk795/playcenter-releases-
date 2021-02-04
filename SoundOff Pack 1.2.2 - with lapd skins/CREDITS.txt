@@ -1,0 +1,280 @@
+DEV MODELS
+===========
+
+2011 CVPI
+
+
+- 2011 Forza CVPI Base Extracted by DMN
+- Optimized, Converted, Textured and stuff by Thehurk
+- Realisim Edits and more optimization by Lundy
+- Major support with screenshots, feedback, IRL pictures, etc by Steinberg, Lundy, Problematic, and Taylor Swift
+- Steelies and tires by Carper
+- Hubcaps and tires by Carper
+
+
+2016 FPIS
+
+
+2010 Ford Taurus SHO by Turn 10 Studios, modified into 2016 Ford Taurus Police Interceptor by OfficerUnderwood
+Rear bumper, headlamps, & dash by be fast, modified by OfficerUnderwood & Carper
+Front bumper by Ridgerunner, Grill by Vertex3D, modified by OfficerUnderwood
+Chassis parts by Ubisoft, Reverse lights by OfficerUnderwood
+Rims by BxBugs123, Centercap by Carper
+
+
+2016 Impala
+
+
+2005 Impala LS by Ubisoft
+Modifed into 2016 LPV and converted to GTA V by OfficerUnderwood
+Grill by unknown (From Tahoe)& Seats by Ubisoft, edited by OfficerUnderwood
+Impala side badge by OfficerFiveO
+Wheels by 0taku
+
+
+2014 Charger
+
+
+-2013 Charger SRT8 from Forza Horizon
+-Converted and textured by Thehurk
+-Converted to PPV by Thehurk
+-Templated by Thehurk
+-Taillight textures by Five0
+
+
+2015 Charger
+
+
+- Base model extracted by DMN from Forza Horizon 2
+- Converted and textures by Thehurk
+- Converted to PPV By Thehurk
+- AWD Rims scratch modeled and converted By RoegonTV
+- AWD Logo by IronicRainbow
+
+
+2013 FPIU
+
+
+Ford Explorer Base model from NFS and converted to GTA:V by jasonct203
+explorer converted to fpiu by jasonct203
+pi rim scratch modeled by voodoo
+rim textured and converted to gta v by jasonct203
+
+
+2016 FPIU
+
+
+- Ford explorer Base model purchased by Thehurk, GTAxB0SS, Requiem and Windows446
+- Poly Crunched, Textured, Converted by Thehurk.
+- Interior purchased by TrentMU and FRGamer
+- Textures by Taylor Swift, Thehurk, & OfficerUnderwood
+- Heavily edited this piece of shit into a polished piece of shit by OfficerUnderwood
+- Rims by BxBugs123, Centercap by Carper
+- Interceptor Hood text by GTAxB0SS
+
+
+2020 FPIU
+
+
+2020 Ford Police Interceptor Utility: HP Deskjet, Dan with the Van, Huskybaud, Skellytone, SCPDArmor
+Some minor changes/edits by Rogue_Thunder
+
+
+2014 Tahoe
+
+
+- 2007 Tahoe by someone on 3dCadBrowser
+- Modifed into 2014 and converted to GTA V by OfficerUnderwood
+- Interior by ShadyDK14, fitted by Peralta, edited by Peralta and OfficerUnderwood with parts by Ubisoft
+- Light textures by Peralta
+- Mirrors & door handles by Ubisoft, fitted by Peralta
+- Center area, steering wheel, door arm rests, & seats by Ubisoft, edited by OfficerUnderwood.
+- Wheels by BxBugs123
+
+
+2019 Tahoe
+
+
+- 2015 Suburban by Carface converted to a 2019-2020 Tahoe PPV by Dan with da van
+- Countless Textures and parts redone and remodeled by Dan with da Van
+- Most included parts modeled and textured by Dan with da van
+- Door sticker redone by Billy J.
+- Thanks to Bigams for providing high quality pictures of a real Tahoe
+- Major edits by Dan with da Van
+- ENV from some lspdfr post oof
+- Templated and normals redon by Dan with da van
+- A huge thanks to everyone below for helping make this project as good as it is.
+Krul, TickleMyElmo, Blaster, HP Deskjet, Bigams, INSAN1TY, Billy J and Maurice97
+
+
+2013 Expedition
+
+
+*Model from from Hum3d
+    Hevaily Edited and Reworked by 0taku
+    Converted for use in V by 0taku
+    Texutered by 0taku
+
+*Cabin scatched made by 0taku
+    asorted parts from DSF/Forza
+
+*Wheels
+    6 spoke alloy made and Texutered by 0taku
+    SSV rim made by McGarrte, tweaked and texterted my 0taku
+
+*Tire texutered by 0taku.
+*Resse towbar hitch Made and texutered by Wolfrunner86
+
+*other asorted parts by Rockgames
+    Asorted bump maps from Forza
+
+*Asorted lod work by Five0
+
+
+2014 Raptor
+
+
+- Ford F-150 SVT Raptor '14 from CSR Racing 2 Ripped by DMN on gamemodels.ru
+- Converted to GTA V and templated by panos_zaf.
+- Collision Boxes by rockstar
+
+Rims are by a Ford F-150 SVT Raptor SuperCab '11 (Hate me as much as you want for them but the original ones were 60.000 polygons)
+
+- Rims by The Crew Ripped by King_Drift on gamemodels.ru
+- Converted to GTA V by panos_zaf.
+
+
+2016 Ford F-250
+
+
+Model purchased from Turbosquid by JackTheDev,
+Converted and textured to GTA V by JackTheDev,
+Steve6645 and Griffin Moore for Beta testing,
+Handling Line by Psychoticginger
+
+
+LIGHTING
+============
+
+SoundOff nForce Lightbar
+
+
+- Soundoff Signal Nforce Lightbar scratch modeled and textured by HDgamerzPC
+
+
+SoundOff Intesector Surface
+
+
+- Modeled and mapped by Black Jesus
+
+
+SoundOff mPower Fascia
+
+
+- Made by 911Response
+
+
+SoundOff nForce Deck Light
+
+
+- Soundoff Signal Nforce Deck Light scratch modeled and textured by HDgamerzPC
+
+- some textures from Bueno added
+
+
+Equipment
+============
+
+-SUV Pushbar-
+
+
+Go Rhino Pushbar- Twurtleee
+
+
+-Sedan Pushbar-
+
+
+- Modeled by Billy J
+- Textures by Billy J
+
+
+-Spotlight-
+
+
+   - Spotlight Created By Turn10Studios; Converted And Edited By Shmurda
+   - Soundoff PAR46 LED Insert Created By Shmurda
+   - Spotlight Mounting Bracket From GameModels.RU
+   - Textures By Shmurda
+
+
+-Siren Speaker-
+
+
+- Soundoff Signal 100n Speaker scratch modeled and textured by HDgamerzPC
+
+
+-ALPR-
+
+
+MPH900 ALPR modeled and textured by tomcat8492
+
+ALPR Computer by martin_stainman
+
+
+-Antennas-
+
+
+Antennas by Jay.
+
+Wobblebase Antenna Model/Texture - Deadspin
+
+
+-Interior-
+
+Laptop Stand by Twurtleee
+
+M16 Assault Rifle:
+Modeled By holymaness on TurboSquid,
+Textured By holymaness,
+Purchased By Walters,
+Converted To GTA V By Walters.
+Remington m870 Tactical Shotgun:
+Modeled By WarHead3D on TurboSquid,
+Textured By WarHead3D,
+Purchased By Walters,
+Converted To GTA V By Walters.
+Gun mount by BlackJesus
+
+CF-51 by OfficerUnderwood
+
+Trunk Equipment by Billy J modifications
+
+-Coban EDGE Modeled,Textured and UV mapped by Dan with da van
+
+PocketJet Printer:
+
+Model - Model is scratch built by johnclark1102
+Texture - Texture is made by diablozer0d617
+
+Kustom Signals Golden Eagle Radar modeled and textured by Gump
+Notebook by Billy J modifications
+
+-Console scratch made by SheriffVanDyck
+-Radio, coffee cup and walkie talkie by Rockstar Games
+
+P1000 Partition and Full Partition by Billy J modifications
+
+ProGard Seat Organizer:
+
+Made by ErinLindsay for GTA IV
+Converted to GTA V by Koduuh
+
+nERGY Siren Control Box by Ripple
+
+Tahoe Trunk Cabinet 3D creation and UV mapping by Vertex
+
+
+All vehicle liveries textured by me.
+
+
+And support from my FiveM community and my friends.
